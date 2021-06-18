@@ -13,3 +13,4 @@ now it`s ready for first release branch
 now second branch release
 new version 4 merge with feature2
 go to release now
+next release
