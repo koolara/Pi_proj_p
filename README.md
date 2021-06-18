@@ -2,4 +2,6 @@
 version 0.1.0
 create develop branch
 new develop version
-update develop version
+start feature branch
+commiting feature1 first time
+commiting and pull for second time
